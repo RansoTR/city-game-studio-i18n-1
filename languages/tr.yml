@@ -1,9 +1,9 @@
 tr:
   # Buttons actions verbs
-  BUTTON_ANNOUNCE: Oyunu duyurun
-  BUTTON_NEW_GAME: Yeni oyun
-  BUTTON_HIRE: kirala
-  BUTTON_APPLY: uygula
+  BUTTON_ANNOUNCE: Oyunu duyur
+  BUTTON_NEW_GAME: Yeni oyun    
+  BUTTON_HIRE: Kirala
+  BUTTON_APPLY: Uygula
   BUTTON_BACK: Geri
   BUTTON_BUILD_MODE: Yapı modu
   BUTTON_BUILDING_RENT: Kiralık
@@ -11,9 +11,9 @@ tr:
   BUTTON_CLOSE: Kapat
   BUTTON_CREDITS: Krediler
   BUTTON_EXIT: Çıkış
-  BUTTON_FIRE: ateş
-  BUTTON_LOAD: yükle
-  BUTTON_LOAD_GAME: Oyunu Yükle
+  BUTTON_FIRE: Kov
+  BUTTON_LOAD: Yükle
+  BUTTON_LOAD_GAME: Oyunu yükle
   BUTTON_MAIN_MENU: Ana Menü
   BUTTON_NEXT: İleri
   BUTTON_OK: Tamam
@@ -25,19 +25,19 @@ tr:
   BUTTON_CLEAR_EVENTS: Temizle
   BUTTON_TOO_BAD: Çok kötü
   BUTTON_BUY_ANOTHER_ONE: Başka bir tane satın al
-  BUTTON_ADOPT: benimse
-  BUTTON_ABANDON: terket
-  BUTTON_ASSIGN_EMPLOYEE: çalışan ata
+  BUTTON_ADOPT: Benimse
+  BUTTON_ABANDON: Terket
+  BUTTON_ASSIGN_EMPLOYEE: Çalışan Ata
   BUTTON_KEEP_PLAYING: Oynamaya Devam et
   BUTTON_LEADERBOARD: Liderler Sıralaması
-  BUTTON_GIVEUP: vazgeç
-  BUTTON_LOAN: kredi
-  BUTTON_REPAY: ödemek
+  BUTTON_GIVEUP: Vazgeç
+  BUTTON_LOAN: Kredi
+  BUTTON_REPAY: Ödemek
   BUTTON_ZOOM: Yakınlaştır
   BUTTON_BUY: Satın al
   BUTTON_SELL: Sat
   BUTTON_RENT: Kira
-  BUTTON_CONFIRM: confirm
+  BUTTON_CONFIRM: Onayla
   BUTTON_BANKRUPTCY: İflas
   BUTTON_RESTORE: Restore et
   BUTTON_DELETE: Sil
@@ -47,7 +47,7 @@ tr:
   BUTTON_HOLIDAY: Stüdyoyu tatile gönder
   BUTTON_MODS: Modlar
   BUTTON_BUGREPORT: Hata bildir
-  BUTTON_FEEDBACK: Geribildirim
+  BUTTON_FEEDBACK: Geri bildirim
   DROPDOWN_LANGUAGE: Diller
   BUTTON_CRACK_GAME: Kırık oyun
   BUTTON_FORCE_STUDIO_SELL: Bir stüdyo satışını zorla
@@ -61,11 +61,11 @@ tr:
     [b]%s[/b] [b]%s[/b]'dan yoksun
   LABEL_POINTRATIO_TOO_MUCH: |
     [b]%s[/b]'da çok fazla [b]%s[/b] var
-  LABEL_MARKETING_CAMPAIGN: Reklâm
+  LABEL_MARKETING_CAMPAIGN: Reklam
   LABEL_CAMPAIGN_TYPE: Reklam türü
-  LABEL_WORKLOAD: Iş yükü
+  LABEL_WORKLOAD: İş yükü
   LABEL_RELEASE_DATE: Çıkış tarihi
-  LABEL_MANUFACTURER: Maker
+  LABEL_MANUFACTURER: Yapımcı
   LABEL_EXPIRED: Süresi bitmiş
   LABEL_POINTRATIO_GOOD: |
     Onlar [b]%s[/b] nasıl yönetileceğini biliyorlar [b]%s[/b]
@@ -78,9 +78,9 @@ tr:
   LABEL_REVIEW_GAME_BAD: |
     [b]%s[/b] itibarlarına bağlı değil. Onlardan daha fazlasını bekliyorduk, özellikle video oyunlarından sonra [b]%s[/b]
   LABEL_REVIEW_COMBO_GOOD: |
-    [b]%s[/b] tries new combos, and it works for them. This is an excellent [b]%s[/b] game
+    [b]%s[/b] yeni kombinasyonları dener ve onlar için çalışır. Bu mükemmel bir [b]%s[/b] oyunudur
   LABEL_REVIEW_COMBO_BAD: |
-    [b]%s[/b] yeni kombinasyonları dener ve onlar için çalışır. Bu mükemmel bir [b]%s[/b] oyunu
+     Bu sadece bir başka [b]%s[/b] oyunudur. [B]%s [/b]'de kendilerini yenilemeyi öğrenmeliler
   LABEL_CRACKED: Kırık
   LABEL_SELECT_COMPANY_SPECIALIZATION: Oyun türü uzmanlığı
   LABEL_DISCORD_COMMUNITY: Discord topluluğu
@@ -89,7 +89,7 @@ tr:
   LABEL_RISKS:  İlgili riskler
   LABEL_SALES_HITS_TITLE: Satış raporu
   LABEL_SALES_HITS_DESCRIPTION: |
-    Hello %s,
+    Merhaba %s,
 
     E-postalarımı ne kadar sevdiğini biliyorum.
     İşte buradayız, iyi satışlar gözlemleyebildiğimiz için bazı hesaplamalar yaptım ve bugün %s satışları hakkında konuşacağız.
@@ -149,14 +149,14 @@ tr:
   LABEL_SKILL_POINT: "%s tür puanları"
   LABEL_UNLOCKED: "Kilidi açıldı"
   LABEL_COST: Maliyet%s puanı
-  LABEL_FANBASE_TRENDS: Fan trendleri
+  LABEL_FANBASE_TRENDS: Hayran trendleri
   LABEL_YEAR: Yıl
   LABEL_GAMEOVER_CONFIRM: İflas
   LABEL_GAMEOVER_DESCRIPTION: >
     İflas oyunu bitirecek.
     İflas beyan etmek istediğinize emin misiniz?
-  LABEL_EXPENSES: giderler
-  LABEL_RENT: kira
+  LABEL_EXPENSES: Giderler
+  LABEL_RENT: Kira
   LABEL_MARKETING: Pazarlama ücreti
   LABEL_FINANCIAL_RESULT: Finansal sonuç
   LABEL_PROPERTY_VALUE: Özellikler değeri
@@ -204,7 +204,7 @@ tr:
   LABEL_MARKETING_BILLBOARD_ITEM: Reklam panosu
   LABEL_MARKETING_SOCIALNETWORK_ITEM: Sosyal ağlar
   LABEL_MARKETING_MAILINGLIST_ITEM: Bülten
-  LABEL_SELF_PUBLISH: Öz yayıncılık
+  LABEL_SELF_PUBLISH: Kendi yayıncılığın
   LABEL_TRADE_PUBLISH: Geleneksel yayıncılık
   LABEL_HIRE_PERFECT_EMPLOYEE_DESCRIPTION: |
     Merhaba,
@@ -225,11 +225,11 @@ tr:
 
     Saygılarımla
     [b]%s[/b]
-  LABEL_FIRE_PERFECT_EMPLOYEE_TITLE: istifa
+  LABEL_FIRE_PERFECT_EMPLOYEE_TITLE: İstifa
   LABEL_NO_STUDIO_FOR_BIG_GAME: >
     Normal veya daha büyük boyutta bir oyun yaratabilen bir stüdyonuz yok.
   LABEL_NO_FAN_BIG_GAME: >
-    Normal veya daha büyük boyutta bir oyun oluşturmak için en az [b]%s[/b] fanın olması tavsiye edilir, aksi takdirde satışlar üzerinde etkisi olacaktır.
+    Normal veya daha büyük boyutta bir oyun oluşturmak için en az [b]%s[/b] Hayranının olması tavsiye edilir, aksi takdirde satışlar üzerinde etkisi olacaktır.
   LABEL_CONCURRENT_AMOUNT: Rakiplerin sayısı
   LABEL_YES: Evet
   LABEL_NO: Hayır
@@ -241,7 +241,7 @@ tr:
   LABEL_SERVER: Sunucu
   LABEL_CAMPAIGN_NO_COST: Basın konuşması yap
   LABEL_CAMPAIGN_DEMO: Bir demo yayınla
-  LABEL_CAMPAIGN_FULL: Bir reklam kampanyası yürütün
+  LABEL_CAMPAIGN_FULL: Bir reklam kampanyası yürüt
   LABEL_GAME_ANNOUNCED_DESCRIPTION: |
     [b]%s[/b] sıradaki oyununu daha yeni ortaya çıkardı: [b]%s[/b]
     [b]%s[/b] altında satışa sunulacak
@@ -258,12 +258,12 @@ tr:
   LABEL_GAME_ANNOUNCED_TITLE: "%s duyuruldu"
   LABEL_TRENDING: Trend
   LABEL_CREATOR: Tarafından yaratıldı
-  LABEL_PRODUCER: yapımcı
+  LABEL_PRODUCER: Yapımcı
   LABEL_COMMUNITY_MANAGER: Topluluk yöneticisi
-  LABEL_SOUND_COMPOSER: Ses besteci
+  LABEL_SOUND_COMPOSER: Ses bestecisi
   LABEL_SPECIAL_THANKS: Özel teşekkür
   LABEL_VISITORS: "%d ziyaretçi"
-  LABEL_ATTENDANCE: katılım
+  LABEL_ATTENDANCE: Katılım
   LABEL_NONE: Yok
   LABEL_NO_BUILDING: Bina mevcut değil
   LABEL_NO_CONVENTION: Kongre planlanmadı
@@ -273,28 +273,28 @@ tr:
   LABEL_CONVENTION_NAME: Sözleşmelerin adı
   LABEL_ATTEND: Katıl
   LABEL_ORGANIZE: Düzenlemek
-  LABEL_INFORMATIONS: ayrıntılar
+  LABEL_INFORMATIONS: Ayrıntılar
   LABEL_GAME: Oyun
-  LABEL_GAMEPORT: oyun portu
+  LABEL_GAMEPORT: Oyun Platformu
   LABEL_CONVENTION: Sergi merkezi
   LABEL_LAND_VALUE: Arsa değeri
   LABEL_SURFACE: Yüzey
-  LABEL_HYPE: aldatıcı
+  LABEL_HYPE: Aldatıcı
   LABEL_AI: Yapay zeka
   LABEL_ANIMATION: Animasyon
   LABEL_ANISOTROPIC_FILTER: Anizotropik filtre
   LABEL_BUILDING_LEASE: Kiralama
-  LABEL_TYPE_BUILDING: tip
+  LABEL_TYPE_BUILDING: Tip
   LABEL_CHARACTERS: Karakterler
   LABEL_COMPANY_NAME: Şirket Adı
   LABEL_CUTSCENES: Sahneleri kes
-  LABEL_CURRENCY: Para birimi
+  LABEL_CURRENCY: Para
   LABEL_DESIGN: Tasarım
   LABEL_DEVELOPMENT: Geliştirme
   LABEL_DIFFICULTY: Zorluk
   LABEL_EVENT_TYPE: Etkinlik tipi
   LABEL_UNIT_SOLD: Satılan birim
-  LABEL_FANBASE: Fan Topluluğu
+  LABEL_FANBASE: Hayran Topluluğu
   LABEL_FULLSCREEN: Tam ekran
   LABEL_GAME_GENRE: tür
   LABEL_GAME_HISTORY: Oyun Geçmişi
@@ -306,10 +306,10 @@ tr:
   LABEL_GAMEPLAY: Oynanış
   LABEL_GRAPHIC_SETTINGS: Grafik Ayarları
   LABEL_GRAPHISM: Grafikler
-  LABEL_INCOME: Gelir
+  LABEL_INCOME: Gelirler
   LABEL_INVALID_SAVE: Bozulmuş Kayıt
   LABEL_KICKOFF: Başla
-  LABEL_LOAD_GAME: Oyunu Yükle
+  LABEL_LOAD_GAME: Oyunu yükle
   LABEL_MAP_SIZE: Harita Boyutu
   LABEL_MARKETING_MATERIAL: Pazarlama malzemesi
   LABEL_MUSIC: Müzik
@@ -328,12 +328,12 @@ tr:
   LABEL_POLISH: Cila
   LABEL_PRICE: Fiyat
   LABEL_RELEASE: Piyasaya sür
-  LABEL_RESOLUTION: Çözüm
-  LABEL_SCRIPTING: senaryo yaz
+  LABEL_RESOLUTION: Çözünürlük
+  LABEL_SCRIPTING: Senaryo yaz
   LABEL_SOUND: Ses
   LABEL_SOUND_SETTINGS: Ses ayarları
   LABEL_SOUNDFX: SoundFX
-  LABEL_SQUARE_FOOTAGE: bölge
+  LABEL_SQUARE_FOOTAGE: Bölge
   LABEL_STAFF: Personel
   LABEL_STORY: Hikaye
   LABEL_STUDIO: Stüdyo
@@ -348,7 +348,7 @@ tr:
   LABEL_THEME_ATLANTIS: Atlantis
   LABEL_THEME_RELIGIOUS: Dini
   LABEL_THEME_ORGANIZED_CRIME: Organize Suç
-  LABEL_THEME_CROSSOVER: Karşıdan karşıya geç
+  LABEL_THEME_CROSSOVER: Crossover
   LABEL_THEME_DESERT: Çöl
   LABEL_THEME_COMEDY: Komedi
   LABEL_THEME_DRAGON: Ejderha
@@ -358,7 +358,7 @@ tr:
   LABEL_THEME_GHOST: Hayalet
   LABEL_THEME_HISTORY: Tarih
   LABEL_THEME_HORROR: Korku
-  LABEL_THEME_MEDICAL: Tıbbi
+  LABEL_THEME_MEDICAL: Hastane
   LABEL_THEME_OCEAN: Okyanus
   LABEL_THEME_ARABIAN_NIGHTS: Binbir Gece masalları
   LABEL_THEME_MYTHOLOGY: Mitoloji
@@ -369,10 +369,10 @@ tr:
   LABEL_THEME_SUPER_HEROS: Süper Kahramanlar
   LABEL_THEME_VAMPIRE: Vampir
   LABEL_THEME_TIME_TRAVEL: Zaman Yolculuğu
-  LABEL_THEME_WESTERN: Batı
+  LABEL_THEME_WESTERN: Vahşi Batı
   LABEL_THEME_ZOMBIE: Zombi
   LABEL_TYPE_ACTION: Aksiyon
-  LABEL_TYPE_BEAT_THEM_ALL: Beat-em-all
+  LABEL_TYPE_BEAT_THEM_ALL: Karşılıklı Dövüş
   LABEL_TYPE_VERSUS_FIGHTING: Karşı mücadele
   LABEL_TYPE_PLATFORMS: Platformlar
   LABEL_TYPE_SHOOT: Ateş
@@ -389,14 +389,14 @@ tr:
   LABEL_TYPE_INTERACTIVE_FICTION: Etkileşimli kurgu
   LABEL_TYPE_INTERACTIVE_MOVIE: Etkileşimli film
   LABEL_TYPE_CHAT: Sohbet
-  LABEL_TYPE_BISHOJO: Bishojo
-  LABEL_TYPE_EROGE: Eroge
-  LABEL_TYPE_OTOME: Otome
+  LABEL_TYPE_BISHOJO: Güzel Kız
+  LABEL_TYPE_EROGE: Erotik
+  LABEL_TYPE_OTOME: Romantik
   LABEL_TYPE_VISUAL_NOVEL: Görsel Roman
   LABEL_TYPE_MYSTERY_LIKE: Gizem Benzeri
   LABEL_TYPE_RPG: RPG
   LABEL_TYPE_ACTION_RPG: Aksiyon RPG
-  LABEL_TYPE_DUNGEON_CRAWLER: Zindan Paletli
+  LABEL_TYPE_DUNGEON_CRAWLER: Böcekli Zindan
   LABEL_TYPE_MMORPG: MMO-RPG
   LABEL_TYPE_DUNGEON: Zindan
   LABEL_TYPE_CROOK_LIKE: Dolandırıcı Benzeri
@@ -409,16 +409,16 @@ tr:
   LABEL_TYPE_ANIMALS: Hayvanlar
   LABEL_TYPE_GOD_GAME: Tanrı oyunu
   LABEL_TYPE_FARMING: Tarım
-  LABEL_TYPE_LIVING_ORGANISM: canlı organizma
+  LABEL_TYPE_LIVING_ORGANISM: Canlı organizma
   LABEL_TYPE_SPORT: Spor
   LABEL_TYPE_MANAGEMENT: Yönetim
   LABEL_TYPE_ECONOMY: Ekonomik
   LABEL_TYPE_CITY_BUILDER: Şehir oluşturucu
-  LABEL_TYPE_GOVERNMENT: hükümet
+  LABEL_TYPE_GOVERNMENT: Hükümet
   LABEL_TYPE_VEHICLE: Araç
   LABEL_TYPE_RACING: Yarış
   LABEL_TYPE_DRIVE: Şöför
-  LABEL_TYPE_FLY: uçuş
+  LABEL_TYPE_FLY: Uçuş
   LABEL_TYPE_SPACE: Uzay
   LABEL_TYPE_SUBMARINE: Denizaltı
   LABEL_TYPE_TRAIN: Tren
@@ -428,14 +428,14 @@ tr:
   LABEL_TYPE_TOWER_DEFENSE: Kule savunması
   LABEL_TYPE_TURN_BASED: Sıra tabanlı
   LABEL_TYPE_ARTILLERY: Ağır Silahlar
-  LABEL_TYPE_CASUAL: gündelik
+  LABEL_TYPE_CASUAL: Gündelik
   LABEL_TYPE_BREAKOUT: Büyük çıkış
-  LABEL_TYPE_RYTHM: ritim
+  LABEL_TYPE_RYTHM: Ritim
   LABEL_TYPE_CLICKER_GAME: Tıklama Oyunu
   LABEL_TARGETTED_AUDIENCE_YOUNG: Genç
   LABEL_TARGETTED_AUDIENCE_ALL: Herkes
   LABEL_TARGETTED_AUDIENCE_MATURE: Yetişkin
-  LABEL_GAME_SIZE_INDIE: bağımsız yapım
+  LABEL_GAME_SIZE_INDIE: Bağımsız yapım
   LABEL_GAME_SIZE_NORMAL: Normal
   LABEL_GAME_SIZE_BIG: Büyük
   LABEL_GAME_SIZE_AAA: AAA
@@ -450,13 +450,13 @@ tr:
   LABEL_DIFFICULTY_INSANE: Çok zor
   LABEL_PLATFORM_RELEASED_DESCRIPTION: "[b]%s[/b] yeni bir platform yayınladı: [b]%s[/b]"
   LABEL_PLATFORM_DISCONTINUED_DESCRIPTION: "[b]%s[/b] o kadar iyi emekli oldu ki [b]%s[/b], hayranları ağlıyor"
-  LABEL_UPCOMING_PLATFORM_RELEASED_DESCRIPTION: "[b]%s[/b] birkaç ay içinde yeni bir platform çıkaracak [b]%s[/b] yıllarca sürmesi bekleniyor"
+  LABEL_UPCOMING_PLATFORM_RELEASED_DESCRIPTION: "[b]%s[/b] birkaç ay içinde yeni bir platform çıkaracak [b]%s[/b] yıllarca popüler olması bekleniyor"
   LABEL_UPCOMING_PLATFORM_DISCONTINUED_DESCRIPTION: "[b]%s[/b] çok iyi bilinen [b]%s[/b] ömrünün sona erdiğini açıkladı"
   LABEL_PLATFORM_UNLOCKED_DESCRIPTION: "[b]%s[/b] lisansını açtınız, [b]%s$[/b]"
   LABEL_PLATFORM_RELEASED_TITLE: Platform yayınlandı
   LABEL_PLATFORM_DISCONTINUED_TITLE: Üretilmeyen platform
   LABEL_UPCOMING_PLATFORM_RELEASED_TITLE: Gelecek platform
-  LABEL_UPCOMING_PLATFORM_DISCONTINUED_TITLE: Yaşam platformunun yaklaşmakta olan sonu
+  LABEL_UPCOMING_PLATFORM_DISCONTINUED_TITLE: Hayatı bitmek üzere olan platform
   LABEL_PLATFORM_UNLOCKED_TITLE: Platform satın alındı
   LABEL_CLICK_TO_CLOSE: Kapatmak için tıklayın
   LABEL_SHOP_UI: Market
@@ -464,21 +464,21 @@ tr:
   LABEL_BOOKSHELF: Kitaplık
   LABEL_WASTEBASKET: Çöp sepeti
   LABEL_ASSIGN_EMPLOYEE: Personel
-  LABEL_NEW_GAME: Yeni Oyun
+  LABEL_NEW_GAME: Yeni oyun
   LABEL_MODDING: Modifiye
   LABEL_ARTWORK: Sanat Eseri
   LABEL_UNLOCK_GAME_TYPE_DESCRIPTION: Son deneyiminiz sayesinde, yeni bir türün kilidini açtınız [b]%s[/b]
   LABEL_UNLOCK_GAME_TYPE_TITLE: "Tür kilidi:%s"
-  LABEL_MAGAZINE_0: Fan Oyunu
-  LABEL_MAGAZINE_1: PC oynatıcı
-  LABEL_MAGAZINE_2: Oyun Geek
-  LABEL_MAGAZINE_3: Oyun  bitti Mag
-  LABEL_MAGAZINE_4: Geek Merkezi
-  LABEL_MAGAZINE_5: Oyun 2
+  LABEL_MAGAZINE_0: Fan Game
+  LABEL_MAGAZINE_1: PC Gamer
+  LABEL_MAGAZINE_2: Game Geek
+  LABEL_MAGAZINE_3: Game Over Mag
+  LABEL_MAGAZINE_4: Geek Hub
+  LABEL_MAGAZINE_5: Game 2
   LABEL_MAGAZINE_6: ZQSD
-  LABEL_MAGAZINE_7: Wiki Oynatıcı
+  LABEL_MAGAZINE_7: Wiki Player
   LABEL_MAGAZINE_8: Godot Mania
-  LABEL_GAME_OVER: Oyun Bitti
+  LABEL_GAME_OVER: Oyun bitti
   LABEL_SCORE: Skor
   LABEL_WAGE_INCREASES_TITLE: Zam talebi
   LABEL_WAGE_INCREASES_DESCRIPTION: "Aşağıdaki çalışanlar maaş zammı yaptı:"
@@ -523,7 +523,7 @@ tr:
   LABEL_CATCHPHRASE_6_1: Basit ama gereksiz bir oyun
   LABEL_CATCHPHRASE_6_2: Mütevazı ama ilginç
   LABEL_CATCHPHRASE_6_3: Eğlenceli ama yeterli değil
-  LABEL_CATCHPHRASE_6_4: Rastgele tarafından şımarık ilginç bir kavram
+  LABEL_CATCHPHRASE_6_4: ilginç bir Oyun
   LABEL_CATCHPHRASE_6_5: Güzel zamanlar geçirdim
   LABEL_CATCHPHRASE_7_0: Ağırbaşlı ve verimli
   LABEL_CATCHPHRASE_7_1: Vasat bir başarının yol açtığı zengin içerik
@@ -556,12 +556,12 @@ tr:
   LABEL_CATCHPHRASE_11_4: Mükemmellik bir oyun olsaydı böyle bir oyun olurdu
   LABEL_CATCHPHRASE_11_5: Yirminci Dünya harikası
   LABEL_CREATE_SEQUEL: Devamını Oluştur
-  LABEL_NEW_IP: Yeni ip
+  LABEL_NEW_IP: Yeni oyun
   LABEL_POSTMORTEM: Analiz
   LABEL_EMPTY_STUDIO: Uyarı Bu stüdyo, bilgisayarlı herhangi bir masaüstü içermez!
   LABEL_MATCH_EXCELLENT: Mükemmel eşleşme
   LABEL_MATCH_GOOD: İyi Eşleşme
-  LABEL_MATCH_OK: Ok Eşleşme
+  LABEL_MATCH_OK: Güzel Eşleşme
   LABEL_MATCH_POOR: Kötü eşleşme
   LABEL_POSTMORTEM_TITLE: Analiz (%s)
   LABEL_POSTMORTEM_DESCRIPTION_EMPTY: "[b]%s[/b] den yeni bir şey öğrenemedik"
@@ -639,16 +639,16 @@ tr:
   LABEL_BUILDING_BUY: Fiyat
   LABEL_BUILDING_RENT: Kira
   LABEL_BUILDING_CONVENTION: Sergi merkezi
-  LABEL_BUILDING_TYPE: inşaat
+  LABEL_BUILDING_TYPE: İnşaat
   LABEL_BUILDING_ROAD: Yol
-  LABEL_BUILDING_STREET: sokak
+  LABEL_BUILDING_STREET: Sokak
   LABEL_BUILDING_APARTMENT: Apartman
   LABEL_BUILDING_HOTEL: Otel
   LABEL_BUILDING_THEATER: Tiyatro
   LABEL_BUILDING_TOWER: Kule
   LABEL_BUILDING_STUDIO: Stüdyo
   LABEL_BUILDING_BUILDING: Konut
-  LABEL_BUILDING_GRASS: çimen
+  LABEL_BUILDING_GRASS: Çimen
   LABEL_BUILDING_SQUARE: Kare
   LABEL_BUILDING_CAFE: Cafe
   LABEL_BUILDING_RESTAURANT: Restorant
@@ -659,7 +659,7 @@ tr:
   LABEL_NO_MONEY: Çok pahalı
   LABEL_COMPUTER: Bilgisayar
   LABEL_PLANT: Bitki
-  LABEL_TABLEPLANT: tablo
+  LABEL_TABLEPLANT: Tablo
   LABEL_PRINTER: Yazıcı
   LABEL_COFFEEMACHINE: Kahve makinesi
   LABEL_DARKMETALTABLEDESK: Koyu metal masa
@@ -693,7 +693,7 @@ tr:
   LABEL_PRODUCTIVITY: Verimlilik
   LABEL_MONEY_EFFICIENCY: Maliyet verimliliği
   LABEL_SKILLS: Beceri
-  LABEL_HOME: Home
+  LABEL_HOME: Ev
   LABEL_MONTH: Ay
   LABEL_ORDER_BY: Tarafından
   LABEL_BUY_PRICE: Satın alma fiyatı
@@ -1007,5 +1007,5 @@ tr:
   TUTORIEL: Öğreticiler
   MARKETING_CAMPAIGN_SOCIALNETWORK: Hedeflenen reklam kampanyası
   MARKETING_CAMPAIGN_MAILINGLIST: E-posta reklam kampanyası
-  GAMEPORT: Oyuna giriş
+  GAMEPORT: Başka Platforma Taşı
   UNLOCK_GAMEGENRE: Oyun türünün kilidini aç
