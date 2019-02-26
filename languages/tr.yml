@@ -1,6 +1,6 @@
 tr:
   # Buttons actions verbs
-  BUTTON_READ: Okumak
+  BUTTON_READ: Oku
   BUTTON_ANNOUNCE: Oyunu Duyur
   BUTTON_NEW_GAME: Yeni oyun
   BUTTON_HIRE: Kirala
@@ -63,7 +63,7 @@ tr:
   LABEL_WEEK: haftalar
   LABEL_TOOLS: İle yapılan
   LABEL_SANDBOX: Sandbox modu
-  LABEL_SAVING: Oyun kaydetme devam ediyor
+  LABEL_SAVING: Oyun kaydedilmeye devam ediliyor
   LABEL_PROPOSAL_MIN_NOTE_FAILED_TITLE: Tazminat ödemeleri
   LABEL_PROPOSAL_MIN_NOTE_FAILED_DESCRIPTION: |
     Sevgili [b]%s[/b],
@@ -75,9 +75,9 @@ tr:
     [b]%s[/b]
   LABEL_CANT_PUBLISH_NEW_GAME: |
     Henüz yeni bir oyun yayınlanamıyor
-  LABEL_EDIT_GAME: Oyun teklifi yayınla
+  LABEL_EDIT_GAME: Oyun teklifini yayınla
   LABEL_EDIT_GAME_ANNOUNCE: |
-    %s bir sonraki maçta çalışacak %s
+    %s sonraki oyunda işe yarayacak%s
   LABEL_EDIT_GAME_ANNOUNCE_BAD: |
     Söylentiler dolaşıyor ve %s'nin %s ile yaptıkları anlaşmadan memnun olmadığı görülüyor
   LABEL_REQUIRE_EMPLOYEE: >
@@ -118,7 +118,7 @@ tr:
   LABEL_RISKS:  İlgili riskler
   LABEL_SALES_HITS_TITLE: Satış raporu
   LABEL_SALES_HITS_DESCRIPTION: |
-    Hello %s,
+    Merhaba %s,
 
     E-postalarımı ne kadar sevdiğini biliyorum.
     İşte buradayız, iyi satışlar gözlemleyebildiğimiz için bazı hesaplamalar yaptım ve bugün %s satışları hakkında konuşacağız.
@@ -457,9 +457,9 @@ tr:
   LABEL_TYPE_TOWER_DEFENSE: Kule savunması
   LABEL_TYPE_TURN_BASED: Sıra tabanlı
   LABEL_TYPE_ARTILLERY: Ağır Silahlar
-  LABEL_TYPE_CASUAL: ündelik
+  LABEL_TYPE_CASUAL: Gündelik
   LABEL_TYPE_BREAKOUT: Büyük çıkış
-  LABEL_TYPE_RYTHM: ritim
+  LABEL_TYPE_RYTHM: Ritim
   LABEL_TYPE_CLICKER_GAME: Tıklama Oyunu
   LABEL_TARGETTED_AUDIENCE_YOUNG: Genç
   LABEL_TARGETTED_AUDIENCE_ALL: Herkes
@@ -498,14 +498,14 @@ tr:
   LABEL_ARTWORK: Sanat Eseri
   LABEL_UNLOCK_GAME_TYPE_DESCRIPTION: Son deneyiminiz sayesinde, yeni bir türün kilidini açtınız [b]%s[/b]
   LABEL_UNLOCK_GAME_TYPE_TITLE: "Tür kilidi:%s"
-  LABEL_MAGAZINE_0: Fan Oyunu
-  LABEL_MAGAZINE_1: PC oynatıcı
-  LABEL_MAGAZINE_2: Oyun Geek
-  LABEL_MAGAZINE_3: Oyun  bitti Mag
-  LABEL_MAGAZINE_4: Geek Merkezi
-  LABEL_MAGAZINE_5: Oyun 2
+  LABEL_MAGAZINE_0: Fan Game
+  LABEL_MAGAZINE_1: PC Player
+  LABEL_MAGAZINE_2: Game Geek
+  LABEL_MAGAZINE_3: Game Over Mag
+  LABEL_MAGAZINE_4: Geek Hub
+  LABEL_MAGAZINE_5: Game 2
   LABEL_MAGAZINE_6: ZQSD
-  LABEL_MAGAZINE_7: Wiki Oynatıcı
+  LABEL_MAGAZINE_7: Wiki Player
   LABEL_MAGAZINE_8: Godot Mania
   LABEL_GAME_OVER: Oyun Bitti
   LABEL_SCORE: Skor
