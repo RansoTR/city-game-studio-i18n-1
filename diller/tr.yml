@@ -1,6 +1,6 @@
 tr:
   # Buttons actions verbs
-  BUTTON_READ: Okumak
+  BUTTON_READ: Oku
   BUTTON_ANNOUNCE: Oyunu Duyur
   BUTTON_NEW_GAME: Yeni oyun
   BUTTON_HIRE: Kirala
@@ -64,7 +64,7 @@ tr:
   BUTTON_CREATE: Yaratmak
   BUTTON_GRID: Izgarayı göster
   BUTTON_EDIT_LOGO: Logoyu düzenle
-  BUTTON_BUILD: İnşa etmek
+  BUTTON_BUILD: İnşa et
 
   # Labels, descriptive
   LABEL_OPEN_FILE: Bir dosya aç
@@ -131,7 +131,7 @@ tr:
   LABEL_LOW_CONFIGURATION: Düşük yapılandırma
   LABEL_USE_MOUSE_TO_MOVE_SCREEN: >
     Ekranı hareket ettirmek için fareyi kullanın.
-  LABEL_WEEK: haftalar
+  LABEL_WEEK: hafta
   LABEL_TOOLS: İle yapılan
   LABEL_SANDBOX: Sandbox modu
   LABEL_SAVING: Oyun kaydetme devam ediyor
